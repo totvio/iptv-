@@ -1,0 +1,770 @@
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", site 1A
+http://b2p.li:80/6262789/5255378/191972
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", site 2A
+http://pfsv.io:80/39421684/55782/60679
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", site 1B
+http://b2p.li:80/6262789/5255378/191975
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", site 2B
+http://pfsv.io:80/39421684/55782/60677
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", site 1C
+http://b2p.li:80/6262789/5255378/191973
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", site 2C
+http://pfsv.io:80/39421684/55782/60678
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",BBB site 2D
+http://pfsv.io:80/39421684/55782/60682
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Cine Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Cine Família
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Retrô
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV CLÁSSICOS - site
+http://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w2122475891.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV MEGA CINE - site
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w134863369.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Filmes 24h - site
+https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1753580857.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w920239982.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisOs Três Patetas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisStar Trek
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5f99ac4fded33000078f29ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPorta dos Fundos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFailArmy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPessoas são incríveis
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=173&deviceId=5f515d080e738d000739e19c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV animais de estimação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",GLOBO
+http://akamaizedx.com:80/davimusse/dms1520/10039421
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT
+http://akamaizedx.com:80/davimusse/dms1520/10039422
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Band
+http://akamaizedx.com:80/davimusse/dms1520/10039426
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",GLOBO HD SITE 1
+http://dnsx.co:80/0915597625/fireurl.co/71971
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",GLOBO HD RJ SITE 2
+http://srvx.io:80/0165466866/fireurl.co/90487
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",GLOBO HD SP SITE 2
+http://srvx.io:80/0165466866/fireurl.co/90478
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Record SP SD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Record RJ SD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Band SP HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2102620497.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT Interior HD
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w627995847.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Cultura RJ
+http://evpp.mm.uol.com.br:1935/cultura1/cultura_480.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",sTV Cultura RJ HD
+http://evpp.mm.uol.com.br:1935/cultura1/cultura_720.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",REDETV SP HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w623693918.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",Rede Brasil SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Brasil
+http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_360/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Brasil HD
+http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Brasil FHD
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w690564606.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium"TV Manchete SD
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Maceió SD
+http://srv3.zcast.com.br:1935/tvmaceio/tvmaceio/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV  Cultura PR SD
+http://200.189.113.201/hls/tve.m3u8?leogondim
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium", Tv Aracati HD
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS 
+ 
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",TV Gazeta MA
+http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT MT
+http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT PI
+http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSBT GO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",SBT PE HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBand PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Cultura PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Cultura PR HD
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede TV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede TV PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTv Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAgro Mais
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTerra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois RBATV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Oeste MA
+https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Liberdade
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFUTURA SD
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois CBTV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTv Capital 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Santa Cecilia
+http://flash1.crossdigital.com.br/2063/2063/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Digital Birigui SD
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Rede Metropole
+http://177.130.81.30/hls/metropole.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois TV LIBERDADE (TV Guarany)
+https://01.paineldevideo.com/rtguarany/rtguarany/playlist-480p.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord BA SD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord BA HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord DF SD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord DF HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord MG SD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord PA SD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord GO HD
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord RS
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord RS HD
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord MT
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRetrô Cartoon
+http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPlay Kids
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPlay Kids HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDisney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDisney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDisney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDisney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDisney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDisney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisZoo Moo Kids SD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisZoo Moo Kids HD
+http://akamaizedx.com:80/davimusse/dms1520/10039678
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPluto TV Kids HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisNick Clássico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisNick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTurma da Mônica 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAs Pistas de Blue 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisNaruto 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPluto TV Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisA vida moderna de Rocko 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAll Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisViasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisReal Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFox Sports News site
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFox Sports 1 site
+http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFox Sports 2 site
+http://dnsx.co:80/0915597625/fireurl.co/71960
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCombat site 1A
+http://dnsx.co:80/0915597625/fireurl.co/71845
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCombat site 2A
+http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCombat site 1B
+http://dnsx.co:80/0915597625/fireurl.co/71845
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCombat site 3A
+http://srvx.io:80/0165466866/fireurl.co/90586
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCombat site 3B
+http://srvx.io:80/0165466866/fireurl.co/90587
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCombat FHD site 4A
+http://akamaizedx.com:80/davimusse/dms1520/10039464
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere - site 1
+http://srvx.io:80/5251874191/fireurl.co/72266
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere - site 2
+http://pfsv.io:80/6555373900/39098/544
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere - site 3
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/download?token=0978309793dbc624b7039e6e89c1dfa2
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere - site 4
+http://dns.clientetv.net:8080/5088166727/8166727/1273
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere - site 5
+http://bldtv.vip:80/victor09/624805/172418
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere EXPIRA 1
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=sQeEsXMieLq-ZCyCMCJ8Xg&3U1G7qaTxrPbalZnEx=1612482872
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere EXPIRA 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=BYaXRQlZajv_CAr-XeTe0w&3U1G7qaTxrPbalZnEx=1612482982
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere FHD - site 7A
+http://dnsx.co:80/0915597625/fireurl.co/72263
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere FHD - site 7B
+http://dnsx.co:80/0915597625/fireurl.co/72264
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere HD - site 7c
+http://dnsx.co:80/0915597625/fireurl.co/72265
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere HD - site 8A
+http://srvx.io:80/0165466866/fireurl.co/90355
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPremiere SD - site 8B
+http://srvx.io:80/0165466866/fireurl.co/90356
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTLC - site 1
+http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTLC - site 2
+http://akamaizedx.com:80/davimusse/dms1520/10039650
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDiscovery Home & Health - site 1A
+http://akamaizedx.com:80/davimusse/dms1520/10039472
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDiscovery Home & Health HD - site
+http://srvx.io:80/0165466866/fireurl.co/90569
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFood Network FHD - site 1A
+http://dnsx.co:80/0915597625/fireurl.co/71932
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFood Network SD - site 2A
+http://srvx.io:80/0165466866/fireurl.co/90530
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFood Network HD - site 1B
+http://dnsx.co:80/0915597625/fireurl.co/71934
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFood Network HD - site 2B
+http://srvx.io:80/0165466866/fireurl.co/90529
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Aparecida
+https://caikron.com.br:8082/padroeira/padroeira/cktv/teste_360p/chunks.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Aparecida HD
+https://caikron.com.br:8082/padroeira/padroeira/cktv/teste_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Novo Tempo SP
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b878000_slpor.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Novo Tempo SP HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Canção Nova HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisIMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w806837531_b596000.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisIMPD TV HD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w806837531_b2179072.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPlenitude TV
+http://stmv1.srvstm.com:1935/flavioferreira5381/flavioferreira5381/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGospel Movies Television
+http://stmv1.srvstm.com:1935/gospelf2/gospelf2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisIURD TV
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Universal
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Troisrbc
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/chunklist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Gpspel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord News MA
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRecord News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Record News SP
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBand News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGV News
+https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPorto Canal
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBloomberg
+http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRTP1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRTP2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCBS News 1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCBS News 2
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisABC News
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Fashionbox
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Natureza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTV Investigação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDiscovery Channel
+http://xdgo.live:8080/josevflive/VPgrUfTYwB/1005
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Discovery Channel HD
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Discovery Channel FHD
+http://srvx.io:80/0165466866/fireurl.co/90571
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Discovery TLC SD (MX)
+http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Animal Planet site 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Animal Planet site
+http://srvx.io:80/0165466866/fireurl.co/90620
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois Animal Planet site
+http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1026
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem de Ferro - 2008
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO01.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem de Ferro 2 - 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO02.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem de Ferro 3 - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO03.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisOs Vingadores 2012
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisVingadores: Era de Ultron 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/VNGDRSEDURON.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisVingadores: Guerra Infinita 2018
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/299536.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisVingadores: Ultimato 2019
+https://guerraempreendimento.xyz/-f-i-l-m-e-s-/dub/299534.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Incrível Hulk 2008
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OINCVLHLK.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHulk - 2003
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HULK.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisThor - 2011
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Thor/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisThor: O Mundo Sombrio - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/THOROMNDSBR.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisThor: Ragnarok - 2017
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/THORAGORK.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCapitão América: O Primeiro Vingador - 2011
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCapitão América 2: O Soldado Invernal - 2014
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica2/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCapitão América: Guerra Civil - 2016
+https://s4.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica3/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGuardiões da Galáxia - 2014
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGuardiões da Galáxia Vol. 2 - 2017
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia2/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem-Formiga - 2015
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/HomemFormiga/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem-Formiga e a Vespa - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/HMNFRMGEVSPA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDoutor Estranho - 2016
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/DoutorEstranho/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem-Aranha: De Volta Ao Lar - 2017
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/HomemAranhaDeVoltaAoLar/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHomem-Aranha: Longe de Casa - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPantera Negra - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/PNTRNGR.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCapitã Marvel - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/CPTMRVL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Homem de Aço - 2013
+https://cdn-player.ml/_player2/option_1.php?id=5442823b84a93550aaf2df4bb7119dd0
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBatman vs Superman: A Origem da Justiça - 2016
+https://t6h7n3h2.stackpathcdn.com//RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisEsquadrão Suicida - 2016
+https://s4.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/EsquadraoSuicida/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLiga da Justiça - 2017
+https://t6h7n3h2.stackpathcdn.com//RCFServer1/ondemand/MLHRMRVLHA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMulher Maravilha - 2017
+https://t6h7n3h2.stackpathcdn.com//RCFServer1/ondemand/MLHRMRVLHA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLiga da Justiça - 2017
+https://s1.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/LigaDaJustica/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAquaman - 2018
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/Aquaman/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisShazam! - 2019
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/Shazam/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAves de Rapina: Arlequina e Sua Emancipação Fantabulosa - 2020
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AvesDeRapina/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMulher Maravilha 1984 - cinema - 2021
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois300: A Ascensão do Império - 2014
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/300AAscensaoDoImperio/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois300 - 2006
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/300/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGodzilla 2: Rei dos Monstros - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGodzilla 1 - 2014
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/Godzilla2014/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGodzilla - 2000
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/Godzilla2000/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisGODZILLA - 1998
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/Godzilla1998/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Caçador de Encrencas - 1993
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/OCacadorDeEncrencas/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSombra Lunar - 2019
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/SombraLunar/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAlone in the Dark 2 - O Retorno do Mal - 2008
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AloneInTheDark2ORetornoDoMal/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAlone In The Dark - O Despertar do Mal - 2005
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AloneInTheDarkODespertarDoMal/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMiss Bala - 2019
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/MissBala2019/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisA Lenda de Kamui - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ALNDKMUI.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFootloose - Ritmo Contagiante - 2011
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLOSRTMCNTGANTE.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFootloose - Ritmo Louco - 1984
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLSRTMLOCO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDirty Dancing - Ritmo Quente - 1987
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/DRTYDNCG.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFúria de Titãs 2 - 2012
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRIDTTS2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFúria de Titãs - 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRIDTTS1.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisArmadilha do Tempo - 2017
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/TimeTrap2017/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAnimais Fantásticos: Os Crimes de Grindelwald - 2018
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AnimaisFantasticos2/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAnimais Fantásticos e Onde Habitam - 2016
+https://s1.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AnimaisFantasticos/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMaze Runner: A Cura Mortal - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMaze Runner: Prova de Fogo - 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/MZRNRPRVDFG.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMaze Runner: Correr ou Morrer - 2014
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/MZRNRCROMR.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisHitch - Conselheiro amoroso - 2005
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HTCHCNSLHAMRS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisEu Robô - 2004
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/EURBO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisEu Sou a Lenda - 2007
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/EUSOUALND.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisOs 3 Infernais - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/OS3INFRNS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisJohn Carter: Entre Dois Mundos - 2012
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/49529.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAlta Velocidade - 2001
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ALTVLCDAD.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisVelocidade Máxima 2 - 1997
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VLCDMXMA2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisVelocidade Máxima - 1994
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VLCDMXMA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCreed II - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/CRED2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCreed: Nascido para Lutar - 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/CRDNSCDPRLTR.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRocky Balboa (6) - 2006
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKYBLBOA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRocky 5 - 1990
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY5.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRocky 4 - 1985
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY4.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRocky 3: O Desafio Supremo - 1982
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY3.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRocky 2: A Revanche - 1979
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois um Lutador - 1976
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY1.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCurtindo a Vida Adoidado - 1986
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/CRTNDAVDADODA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSimbad: O Marujo Trapalhão - 1975
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/SMBDORJOTRPHLAO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDuelo no Asfalto - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/DUELNASFTO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMonster Trucks - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/MNSTRRCK.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMeu Admirador Secreto - 2018
+https://a-delivery12.mxdcontent.net/v/0a51d9b190ff5630a5a8999f1fcc0fe7.mp4?s=ZTcsI1oCftHchFdB18S-og&e=1611696389&_t=1611682228
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCowboys & Aliens - 2011
+https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/49849.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBloodshot - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/BLODHT.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisChamas da Vingançam - 2004
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/11495.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois mas Feliz - 1995
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/12110.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisJurassic World: Reino Ameaçado - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/JRSCWRLDRNOAMCDO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisJurassic World: O Mundo dos Dinossauros - 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCWRLDMNDINO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisJurassic Park 3 - 2001
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCPRK03.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Mundo Perdido: Jurassic Park - 1997
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/JurassicPark2/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisJurassic Park: Parque dos Dinossauros - 1993
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCPRK01.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMestre Z: O Legado de Ip Man
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/MSTRZOLGDIPMN.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisConvenção das Bruxas 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/CNVCAODSBRXS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisConvenção das Bruxas - 1990
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ACNCAODSBRXS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBill & Ted – Uma Aventura Fantástica 1989
+https://www1074.ff-03.com/token=V96Fo55COG-F8GwYONLbYw/1611362798/143.202.0.0/126/0/99/4b243780b0a23792ad529c8f5dfab990-360p.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBill & Ted – Dois Loucos no Tempo 1991
+https://www797.ff-02.com/token=Pflj1KdekIoP26NQryM1_Q/1611421959/143.202.0.0/126/2/7d/ae631f614889a633227b581c66f0d7d2-360p.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBill & Ted: Encare a Música 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BILETDENCRAMSCA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTáxi - Velocidade nas Ruas 1998
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX1.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTaxi - 2004
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Taxi/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTaxi 2: Mais Velocidade Nas Ruas - 2000
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTaxi 3: Inferno no Asfalto - 2002
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX3.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTaxi 4 - 2007
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX4.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTaxi 5 - 2018
+https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/434355.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisZona de Combate - 2021
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ZNDCMBTE.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPai em Dobro (Nacional) - 2021
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PAIEMDBRO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Dia Depois de Amanhã - 2004
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ODIADPSDAMNHA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisZoom: Academia de Super-Heróis - 2006
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisWing Chun: Uma Luta Milenar - 1994
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisZ: A Cidade Perdida - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZCDSPRDA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisWarcraft: O Primeiro Encontro de Dois Mundos - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WARCRFT.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisWaterworld: O Segredo das Águas - 1995
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisObrigado por Fumar - 2005
+https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisA Origem dos Guardiões(2012)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/AORGMDSGRDOS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisOs Irmãos Guardiões(2015)
+https://d3vv0ylav955f.cloudfront.net/RCFServer4/ondemand/OSIMSGRDIOS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFesta no Céu(2014)
+https://d3vv0ylav955f.cloudfront.net/RCFServer3/ondemand/FSTNOCEU.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisViva – A Vida É uma Festa(2017)
+https://d3vv0ylav955f.cloudfront.net/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisZathura: Uma Aventura Espacial(2005)
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSCOOBY! O Filme - 2020
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/ScoobyOFilme/dub/video.json/index-f2-v1-f1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisUglyDolls - 2019
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/UglyDolls/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCorgi: Top Dog - 2019
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/CorgiTopDog/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDora e a Cidade Perdida - 2019
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/DoraEACidadePerdida/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisCada Um na Sua Casa - 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/CSUMNSUACS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisOs Goonies - 1985
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OSGONS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisEsqueceram de Mim 3
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM3.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisEsqueceram de Mim 2: Perdido em Nova York - 1992
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisEsqueceram de Mim - 1990
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM1.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPatrulha Canina: Super Filhotes - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/PTRLHCNASPRFLHTS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Bom Dinossauro - 2015
+https://s4.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/OBomDinossauro/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois O Filme: Candace Contra o Universo - 2020
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/PhineasEFerbCandaceContraOUniverso/dub/video.json/index-f2-v1-f1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAnimais em Apuros - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ANMSEMAPRS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSonic: O Filme - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SONCOFLM.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisA Árvore dos Desejos - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/AAVRDSDSJOS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFrozen - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FRZN2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisOlaf's Frozen Adventure - 2017
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/OLFEMUMNVAVNTRCNGLDFRZN.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisFrozen: Uma Aventura Congelante - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRZNUACGLNT.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMonstros vs. Alienígenas: Abóboras Mutantes - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/MNSTRSVSALIENABRSMTNTSDEPCO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMonstros vs. Alienígenas - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MNSTRSVSALIEN.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSoul: Uma Aventura com Alma - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPequenos Grandes Heróis - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/PQNSGRNDSHRS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: Perdidos na Noite de Natal 2018
+https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/10160.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: Uma Babá Muito Esquisita 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/LUCSNTOEMUMBABMTESQCDA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto Em: Acampamento de Férias 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/LCSNTOEMACMPMTDFRS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: Dia das Crianças 2019
+https://www52.uptostream.com/375l8fm2344/720/0/video.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: O Fim do Natal 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/LCSNTOEMFMDNTL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: Acampamento de Férias 2 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer3/ondemand/LCSNTOEMACMPMTDFRS2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto Em: O Hotel Mágico 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/LCSNTOEMOHTLMGCO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: O Mapa do Tesouro 2020
+http://redir.videezy.gq/newsthg/filmcucu/lccasntoomapadtsouro.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto em: Um Natal Muito Atrapalhado 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTEMUMNTLMTATRPLHDO.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLuccas Neto Em: Acampamento de Ferias 3 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisLEGO DC: Shazam – Magia e Monstros 2020
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/LegoDCShazamMagiaEMonstros/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisDivertida Mente - 2015
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/150540.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisWheely - Velozes e Divertidos 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisSing – Quem Canta Seus Males Espanta 2016
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisRango 2011
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Homem das Cavernas 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OHMNDSCVNS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMegamente 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MGMNTE.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Segredo dos Animais Ep.01 - 2006
+https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP01.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Segredo dos Animais Ep.02 - A Fuga do Celeiro
+https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP02.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTrolls: Vamos Festejar - 2017
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTrolls 2 - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/TRLS2.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisYellowbird: O Pequeno Herói - 2014
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisVombate ao Combate - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VMBTAOCMBT.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisBob Esponja: O Incrível Resgate - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPets Unidos! - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PETSUNDS.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisA Caminho da Lua - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ACMNHDLUA.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisMissão Presente de Natal - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MSAOPSNTDNTL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisTudo Bem no Natal Que Vem - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/TDBMNONTLQVM.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisAplicativo Para o Natal - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/APPPRONTL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisUm Sapato para o Natal - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/UMSPTPRONTL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisPríncipe do Natal: O Bebê Real - 2019
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/OPrincipedoNatalOBebeReal/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisO Príncipe do Natal - 2017
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OPRNCPDNTL.mp4
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisNatal No Palácio - 2019
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/NatalNoPalacio2018/dub/video.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La TroisA Volta do Espírito de Natal - 2017
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/AVoltaDoEspiritoDeNatal/dub/video.json/index-v1-a1.m3u8
