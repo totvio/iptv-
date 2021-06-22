@@ -1,10 +1,10 @@
-#EXTINF:-1, A&E
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
-#EXTINF:-1, AMC
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
-#EXTINF:-1, AXN
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
-#EXTINF:-1, BABY TV
+#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/117
 #EXTINF:-1, BAND SPORTS
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/119
