@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 #EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 #EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" group-title="Belgium",La Trois
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/117
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8v
 
